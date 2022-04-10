@@ -1,0 +1,23 @@
+[
+    {
+        "Business Code": 10248,
+        "Customer Number": 1,
+        "Clear Date": "2000-02-30",
+        "Business Year": 2019,
+        "Document id": "Fr8x",
+        "posting Date":"2000-02-30",
+        "document_create_date":"2000-02-30",
+        "document_create_date.1":"2000-02-30",
+        "due_in_date":"2000-02-30",
+        "invoice_currency":300.52,
+        "document type":"Fr8x",
+        "posting_id":"Fr8x",
+        "area_business":"Fr8x",
+        "total_open_amount":"Fr8x",
+        "baseline_create_date":"2000-02-30",
+        "cust_payment_terms":"2000-02-30",
+        "invoice_id":"2000-02-30",
+        "isOpen":"2000-02-30",
+        "predicted":    "2000-02-30"
+    }
+]
